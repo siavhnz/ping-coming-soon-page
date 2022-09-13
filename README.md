@@ -37,7 +37,9 @@ Users should be able to:
 ### Links
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
+
 - Live Site: [app.netlify.com](https://your-live-site-url.com)
+
 
 ## My process
 
@@ -47,6 +49,8 @@ Users should be able to:
 
 - Identifying and Creating components
     - Layout, Ping, SubscribeForm, ComingSoon, Footer
+
+- Adding CSS Preflight
 
 ### Built with
 
