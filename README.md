@@ -45,6 +45,9 @@ Users should be able to:
 
 - Preparing Workflow (Installing Reactjs, Adding assets)
 
+- Identifying and Creating components
+    - Layout, Ping, SubscribeForm, ComingSoon, Footer
+
 ### Built with
 
 - [React](https://reactjs.org/)
