@@ -1,0 +1,22 @@
+.footer {
+    margin-bottom: 2rem;
+}
+
+.footer__icons {
+    display: flex;
+    justify-content: center;
+    column-gap: 1.75rem;
+}
+
+.footer__icons svg {
+    width: 1rem;
+    height: 1rem;
+    color: var(--color-primary)
+}
+
+.copyright {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.625rem;
+    color:var(--light-gray, #969696);
+}

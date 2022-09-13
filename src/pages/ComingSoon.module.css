@@ -1,0 +1,10 @@
+.main {
+    flex-grow: 1;
+    margin-bottom: 8rem;
+    margin-top:4.75rem
+}
+.figure {
+    padding-right: 1.75rem;
+    padding-left: 1.75rem;
+    margin-top: 4.125rem;
+}

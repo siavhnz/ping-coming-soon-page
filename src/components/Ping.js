@@ -1,13 +1,16 @@
+import { ReactComponent as Logo } from "../images/logo.svg";
+import styleUtils from "./Ping.module.css";
+
 const Ping = () => {
   return (
-    <div>
-      <h1>
-        ping<span>.</span>
+    <div className={styleUtils.container}>
+      <Logo alt="logo" title="logo" focusable="false" />
+      <h1 className={styleUtils.title}>
+        We are launching <span className="color-darkblue font-bold">soon!</span>
       </h1>
-      <p>
-        We are launching <span>soon!</span>
+      <p className={`${styleUtils.desc} color-darkblue`}>
+        Subscribe and get notified
       </p>
-      <p>Subscribe and get notified</p>
     </div>
   );
 };

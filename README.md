@@ -52,14 +52,16 @@ Users should be able to:
 
 - Adding CSS Preflight
 
+- Working on mobile design based on `design` folder
+
 ### Built with
 
 - [React](https://reactjs.org/)
 - [CSS Module](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet) - For styles
 - Mobile-first workflow
 - Semantic HTML5 markup
+- CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
@@ -69,9 +71,6 @@ Users should be able to:
 
 
 ### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
 
 ## Author
 
