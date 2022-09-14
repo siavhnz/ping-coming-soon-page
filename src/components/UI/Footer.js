@@ -8,16 +8,23 @@ const Footer = () => {
     <footer className={styleUtils.footer}>
       <div className={styleUtils.footer__icons}>
         <a
+          aria-label="go to our facebook"
           href="https://facebook.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Facebook />
         </a>
-        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+        <a
+          aria-label="go to our twitter"
+          href="https://twitter.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Twitter />
         </a>
         <a
+          aria-label="go to our instagram"
           href="https://instagram.com"
           target="_blank"
           rel="noopener noreferrer"

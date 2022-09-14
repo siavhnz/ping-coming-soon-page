@@ -4,7 +4,7 @@ import styleUtils from "./Ping.module.css";
 const Ping = () => {
   return (
     <div className={styleUtils.container}>
-      <Logo alt="logo" title="logo" focusable="false" />
+      <Logo title="logo" focusable="false" />
       <h1 className={styleUtils.title}>
         We are launching <span className="color-darkblue font-bold">soon!</span>
       </h1>
