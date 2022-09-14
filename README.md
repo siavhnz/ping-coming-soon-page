@@ -54,6 +54,14 @@ Users should be able to:
 
 - Working on mobile design based on `design` folder
 
+- Working on desktop design based on `design` folder
+
+- Working on email validity using React hook
+
+- Writing README.md
+
+- Publish on github.com | app.netlify.com | frontendmentor.io
+
 ### Built with
 
 - [React](https://reactjs.org/)

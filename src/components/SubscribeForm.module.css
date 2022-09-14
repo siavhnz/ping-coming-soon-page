@@ -29,8 +29,13 @@
     color: var(--pale-blue, #c2d3ff);
 }
 
+.border-error {
+    border: 1px solid var(--light-red, #ff5263);
+}
+
 .error-message {
     margin-top: 0.25rem;
+    margin-bottom: 0.85rem;
     color: var(--light-red, #ff5263);
     font-size: 0.65rem;
     font-weight: 300;
@@ -48,6 +53,7 @@
     font-size: 0.75rem;
     color: #fff;
     font-weight: 300;
+    max-height: 3.5rem;
 }
 
 .notify-btn:hover {
@@ -66,6 +72,13 @@
         width: 26rem;
         font-size: 1.125rem;
         padding: 0.825rem 1.75rem;
+    }
+
+    .error-message {
+        align-self: flex-start;
+        padding:0.25rem 2rem;
+        font-size: 0.825rem;
+        font-weight: 600;
     }
 
     .notify-btn {
