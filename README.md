@@ -36,9 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-ypPe6t1ypR)
 
-- Live Site: [app.netlify.com](https://your-live-site-url.com)
+- Live Site: [netlify.app](https://pg-coming-soon-page.netlify.app/)
 
 
 ## My process
