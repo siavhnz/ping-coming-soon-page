@@ -5,18 +5,38 @@
 .footer__icons {
     display: flex;
     justify-content: center;
-    column-gap: 1.75rem;
+    column-gap: 1.25rem;
+}
+
+.footer__icons a{
+    padding:0.25rem;
+    border:1px solid transparent;
+    border-radius: 2rem;
+}
+
+.footer__icons a:hover {
+    background-color: var(--color-hover, rgb(79, 125, 243, 0.75));
+    color: #fff;
+}
+.footer__icons a:hover svg {
+    color: #fff;
 }
 
 .footer__icons svg {
-    width: 1rem;
-    height: 1rem;
+    width: 0.9rem;
+    height: 0.9rem;
     color: var(--color-primary)
 }
 
 .copyright {
-    margin-top: 2rem;
+    margin-top: 1.75rem;
     text-align: center;
     font-size: 0.625rem;
     color:var(--light-gray, #969696);
+}
+
+@media (min-width: 90em) { /* 1440px */
+   .copyright {
+        font-size: 0.75rem;
+    }
 }

@@ -8,3 +8,20 @@
     padding-left: 1.75rem;
     margin-top: 4.125rem;
 }
+
+@media (min-width:40em) { /* 640px */
+    .figure {
+        max-width: 40rem;
+    }
+}
+
+@media (min-width: 90em) { /* 1440px */
+    .main {
+        margin-bottom: 4.625rem;
+        margin-top: 5.45rem;
+    }
+    .figure {
+        margin-top: 5.3rem;
+        max-width: 43.75rem;
+    }
+}

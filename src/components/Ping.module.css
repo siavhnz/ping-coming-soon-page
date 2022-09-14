@@ -8,9 +8,21 @@
 .title {
     color:var(--light-gray, #969696);
     font-size: 1.375rem;
-    margin-top: 1.125rem
+    margin-top: 1.125rem;
 }
 
 .desc {
     font-size:0.75rem;
+}
+
+@media (min-width: 90em) { /* 1440px */
+    .title {
+        font-size: 3rem;
+        margin-top: 1.5rem
+    }
+
+    .desc {
+        font-size:1.25rem;
+        margin-top: -0.5rem;
+    }
 }
