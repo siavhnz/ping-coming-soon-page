@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.JPG)
 
 ### Links
 
@@ -73,16 +73,27 @@ Users should be able to:
 
 ### What I learned
 
+This challenge was similar to the previous challenge [Base Apparel](https://github.com/siavhnz/base-apparel-coming-soon-page)
+that I solved so It was just more practice on creating components, styling, and
+working with hooks
 
 
 ### Continued development
 
-
-### Useful resources
+More practice on React
 
 ## Author
 
-- Gihtub - [siavhnz](https://github.com/siavhnz)
 - Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
 
+- Gihtub - [siavhnz](https://github.com/siavhnz)
+
+- Codepen - [@siavhnz](https://codepen.io/siavhnz)
+
 ## Acknowledgments
+
+Thanks To
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
