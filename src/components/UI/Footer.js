@@ -7,13 +7,21 @@ const Footer = () => {
   return (
     <footer className={styleUtils.footer}>
       <div className={styleUtils.footer__icons}>
-        <a href="https://facebook.com">
+        <a
+          href="https://facebook.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Facebook />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
           <Twitter />
         </a>
-        <a href="https://instagram.com">
+        <a
+          href="https://instagram.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Instagram />
         </a>
       </div>
